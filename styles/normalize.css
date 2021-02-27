@@ -349,3 +349,9 @@ template {
 [hidden] {
   display: none;
 }
+
+/* Custom addition */
+
+blockquote {
+  margin: 0;
+}
